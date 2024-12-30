@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Gemini_Clone
 This is a gemini clone built using React.js
->>>>>>> 4c823d305d02edb544172a09246817d15f88eac8
+
